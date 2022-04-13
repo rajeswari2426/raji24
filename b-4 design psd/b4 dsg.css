@@ -1,0 +1,256 @@
+@charset "utf-8";
+/* CSS Document */
+/*font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+.bdr {
+	border: 8px solid #f7ef90;
+}
+.hed {
+	background-color: #302e2e;
+	height: 160px;
+}
+.logo {
+}
+.logo img {
+	margin-top: 20px;
+}
+.cnt {
+}
+.cnnt {
+	float: right;
+	margin-top: 30px;
+}
+.cnt p {
+	color: #fff;
+	font-family: Fredoka One', cursive';
+	margin: 0px;
+	font-size: 20px;
+}
+.cnt span {
+	color: #fff;
+	font-family: 'Lobster', cursive;
+}
+.cnt h2 {
+	color: #fff;
+}
+/*-----------------------------------nav------------------------------------------------------*/
+
+.nav {
+	background: #302e2e;
+	height: 100px;
+}
+.navv {
+	background: url(images/img_03.png) no-repeat;
+	height: 54px;
+}
+.navv nav {
+}
+.navv nav a {
+	color: #fff;
+	font-family: 'Fredoka One', cursive;
+	font-size: 23px;
+	margin-left: 49px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.navv nav a:hover {
+	border-bottom: 6px solid #f7ef90;
+}
+/*------------------------------------bann-------------------------------------------------------------*/
+
+.ban {
+	background: #302e2e;
+	height: 458px;
+}
+.bann {
+}
+/*--------------------------------------hed&para--------------------------------------------------------------*/
+
+
+.cst {
+	background: #302e2e;
+	height: 218px;
+}
+.cause {
+}
+.cause h4 {
+	color: #fff;
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	font-size: 26px;
+}
+.cause p {
+	color: #fff;
+	text-align: center;
+	margin-left: 245px;
+	font-size: 15px;
+	margin-top: 22px;
+	font-family: 'Fredoka One', cursive;
+	width: 652px;
+}
+.bdrr {
+	border: 1px solid #dfdede;
+	margin-top: 18px;
+}
+/*--------------------------------------------------images-------------------------------------------*/
+
+.three {
+	background: #302e2e;
+	height: 520px;
+}
+.red {
+}
+.red img {
+}
+.red p {
+	color: #fff;
+	font-family: 'Fredoka One', cursive;
+	width: 265px;
+	text-align: center;
+	margin-left: 43px;
+}
+.port {
+}
+.port img {
+}
+.port p {
+	color: #fff;
+	font-family: 'Fredoka One', cursive;
+	width: 274px;
+	text-align: center;
+	margin-left: 43px;
+}
+.grapes {
+}
+.grapes p {
+	color: #fff;
+	font-family: 'Fredoka One', cursive;
+	width: 270px;
+	text-align: center;
+	margin-left: 43px;
+}
+.grapes img {
+}
+.bdt {
+	border: 1px solid #dfdede;
+	margin-top: 71px;
+}
+/*----------------------------------------------form----------------------------------------------------------*/
+
+.glass {
+	background: #302e2e;
+	height: 610px;
+}
+.gdi {
+}
+.gdi img {
+	margin-top: 40px;
+}
+.gdi h6 {
+	color: #fff;
+	font-family: 'Lobster', cursive;
+	margin-top: 27px;
+	word-spacing: 2px;
+}
+.frm {
+}
+.frm h2 {
+	color: #fff;
+	font-family: 'Fredoka One', cursive;
+	margin-top: 27px;
+}
+.frm label {
+	color: #f7ef90;
+	font-size: 26px;
+	margin-left: 40px;
+}
+.frm input {
+	margin-left: 27px;
+	border: 2px dotted #000;
+	padding: 5px;
+	border-radius: 32px;
+	background: url(images/b4-images_27.png);
+}
+.frm input[type="message"] {
+	padding: 64px 78px;
+	margin-top: 8px;
+	margin-left: 13px;
+}
+.frm input[type="text"] {
+	margin-left: 54px;
+	padding: 9px 68px 3px;
+	margin-top: 15px;
+}
+.frm input[type="email"] {
+	margin-left: 40px;
+	margin-left: 24px;
+	padding: 9px 69px 3px;
+	margin-top: 9px;
+}
+.frm button {
+	margin-top: 9px;
+	margin-left: 177px;
+	padding: 5px 40px;
+	border: 1px dashed #000;
+	background: #f7ef90;
+	text-transform: uppercase;
+	font-size: 19px;
+	color: #000;
+	border-radius: 10px;
+}
+/*---------------------------------------footer------------------------------------------------*/
+
+.icon {
+	background: #302e2e;
+	height: 310px;
+}
+.para {
+}
+.para p {
+	color: #aca3a3;
+	font-family: 'Fredoka One', cursive;
+	width: 491px;
+	text-align: center;
+	margin-left: 330px;
+}
+.para nav {
+	background:url(images/img_03.png);
+	background-repeat:no-repeat;
+	border-top: 1px dashed #000;
+	
+	background-size: cover;
+	height: 70px;
+	
+	border-bottom: 1px dashed #000;
+	
+}
+.para nav a {
+}
+.para nav a img {
+	height: 34px;
+	margin-top: 18px;
+}
+/*----------------------------------------last------------------------------------------------------*/
+
+
+.end {
+	background: #302e2e;
+	
+	
+	
+}
+
+.rhk {
+	border: 8px solid #f7ef90;
+}
+
